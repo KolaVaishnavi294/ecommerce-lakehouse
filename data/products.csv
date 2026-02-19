@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity
+1,Laptop,Electronics,800.0,50
+2,Headphones,Electronics,100.0,200
+3,Shoes,Fashion,60.0,150
+4,T-Shirt,Fashion,20.0,300
+5,Watch,Accessories,150.0,80
