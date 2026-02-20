@@ -97,7 +97,7 @@ ecommerce-lakehouse/
 ## Setup Instructions
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/KolaVaishnavi294/ecommerce-lakehouse-deltaLake
+git clone https://github.com/KolaVaishnavi294/ecommerce-lakehouse
 cd ecommerce-lakehouse
 ```
 ### 2️⃣ Start the System
